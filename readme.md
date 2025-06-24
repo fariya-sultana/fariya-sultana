@@ -1,6 +1,6 @@
-<p align=”center”>
+<p align="center">
 
-<img width=”200" height=”200" src=”https://i.postimg.cc/RFTqbcQC/github-header-image.png" alt=”my banner”>
+<img width="200" height="200" src="https://i.postimg.cc/RFTqbcQC/github-header-image.png" />
 
 </p>
 <h1 align="left">Hi 👋, I'm Fariya Sultana</h1>
