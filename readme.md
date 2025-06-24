@@ -5,9 +5,10 @@
 </p>
 <!-- <h1 align="left">Hi 👋, I'm Fariya Sultana</h1> -->
 
-<h2 align="left">💻 A passionate full stak web developer from Bangladesh</h2> 
+<h1 align="left">💻 A passionate full stak web developer from Bangladesh</h1> 
 
 <h3 align="left">🧠 About Me </h3>
+
 This is Fariya Sultana, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. I have one year of hands-on experience in full stack development and a strong
 foundation in HTML, CSS, JavaScript, React, Node.js, and MongoDB, I am eager to contribute to your team’s success. 
 
@@ -18,10 +19,6 @@ If you're on the lookout for a developer with real-world experience who can brin
 
 Thanks for checking out my profile. Let's build something amazing together! 
 
-
-Best regards,
-
-Friya Sultana
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariya-sultana&label=Profile%20views&color=0e75b6&style=flat" alt="fariya-sultana" /> </p>
 
