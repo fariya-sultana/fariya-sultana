@@ -4,9 +4,10 @@
 
 </p>
 <!-- <h1 align="left">Hi 👋, I'm Fariya Sultana</h1> -->
-🧠 About Me
-<h3 align="left">A passionate full stak developer from Bangladesh</h3> 
 
+<h2 align="left">💻 A passionate full stak web developer from Bangladesh</h2> 
+
+<h3 align="left">🧠 About Me </h3>
 This is Fariya Sultana, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. I have one year of hands-on experience in full stack development and a strong
 foundation in HTML, CSS, JavaScript, React, Node.js, and MongoDB, I am eager to contribute to your team’s success. 
 
