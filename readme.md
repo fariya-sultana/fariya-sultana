@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mongoose, SQL**
 
-- 💬 Ask me about **MERN Stak, Full Stak Development**
+- 💬 Ask me about **MERN Stack, Full Stack Development**
 
 - 📫 How to reach me **fariya.sultana.dev@gmail.com**
 
