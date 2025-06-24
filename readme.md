@@ -4,6 +4,7 @@
 
 </p>
 <!-- <h1 align="left">Hi 👋, I'm Fariya Sultana</h1> -->
+🧠 About Me
 <h3 align="left">A passionate full stak developer from Bangladesh</h3> 
 
 This is Fariya Sultana, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. I have one year of hands-on experience in full stack development and a strong
