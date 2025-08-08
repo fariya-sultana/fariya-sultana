@@ -22,7 +22,7 @@ Thanks for checking out my profile. Let's build something amazing together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariya-sultana&label=Profile%20views&color=0e75b6&style=flat" alt="fariya-sultana" /> </p>
 
-- 🔭 I’m currently working on **Book library**
+- 🔭 I’m currently working on **Parcel Delivery website**
 
 - 🌱 I’m currently learning **TypeScript, SQL**
 
@@ -33,6 +33,11 @@ Thanks for checking out my profile. Let's build something amazing together!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/fariyasultana802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fariyasultana802" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://wa.me/8801894690440" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
