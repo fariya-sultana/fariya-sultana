@@ -37,7 +37,7 @@ Thanks for checking out my profile. Let's build something amazing together!
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-username" target="blank">
+<a href="https://www.linkedin.com/in/fariya-sultana" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
