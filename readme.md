@@ -10,7 +10,7 @@
 <h3 align="left">🧠 About Me </h3>
 
 This is Fariya Sultana, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. I have one year of hands-on experience in full stack development and a strong
-foundation in HTML, CSS, JavaScript, React, Node.js, and MongoDB, I am eager to contribute to your team’s success. 
+foundation in HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB, I am eager to contribute to your team’s success. 
 
 Currently pursuing a BSc at National University, I have completed 6 full-stack projects, including an e-commerce site. These experiences have strengthened my problem-solving skills and ability to build responsive, user-centric web applications. 
 
@@ -24,7 +24,7 @@ Thanks for checking out my profile. Let's build something amazing together!
 
 - 🔭 I’m currently working on **Book library**
 
-- 🌱 I’m currently learning **Mongoose, SQL**
+- 🌱 I’m currently learning **TypeScript, SQL**
 
 - 💬 Ask me about **MERN Stack, Full Stack Development**
 
