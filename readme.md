@@ -32,9 +32,6 @@ Thanks for checking out my profile. Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/8801894690440" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/fariya-sultana" target="blank">
